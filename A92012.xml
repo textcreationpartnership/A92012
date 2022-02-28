@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made before the Lords in the upper House by Francis Rous Esquire, March the 16th. 1640. Against Dr. Cossens, Dr. Maynwaring, and Dr. Beale; upon the complaint of Mr. Peter Smart.</title>
+            <author>Rous, Francis, b. 1615.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92012</idno>
+            <idno type="STC">Wing R2028</idno>
+            <idno type="STC">Thomason E196_42</idno>
+            <idno type="STC">ESTC R14896</idno>
+            <idno type="EEBO-CITATION">99859760</idno>
+            <idno type="PROQUEST">99859760</idno>
+            <idno type="VID">157468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157468)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E196[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made before the Lords in the upper House by Francis Rous Esquire, March the 16th. 1640. Against Dr. Cossens, Dr. Maynwaring, and Dr. Beale; upon the complaint of Mr. Peter Smart.</title>
+                  <author>Rous, Francis, b. 1615.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, Iunior,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>MDCXLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beale, William, d. 1650.</term>
+               <term>Cosin, John, 1594-1672.</term>
+               <term>Maynwaring, Roger, 1590-1653.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157468:1" rendition="simple:additions"/>
+            <p>A SPEECH MADE BEFORE THE LORDS IN THE VPPER HOVSE; BY FRANCIS ROUS <hi>Eſquire, March the</hi>
+16<hi rend="sup">th</hi>. 1640.</p>
+            <p>AGAINST Dr. COSSENS, Dr. MAYNWARING, and Dr. BEALE; <hi>
+                  <g ref="char:V">Ʋ</g>pon the</hi> Complaint <hi>of
+Mr.</hi> PETER SMART.</p>
+            <p>
+               <hi>AT LONDON,</hi> Printed for IOHN WRIGHT, <hi>Iunior.</hi> MDCXLI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157468:2"/>
+            <pb n="1" facs="tcp:157468:2"/>
+            <head>A SPEECH MADE BEFORE THE LORDS IN THE Vpper HOVSE; By Mr. FRANCIS ROUS <hi>Eſquire;
+March</hi> the 16<hi rend="sup">th</hi>. 1640.</head>
+            <head type="sub">Againſt <hi>Dr. COSSENS. Dr. MAYN<g ref="char:EOLhyphen"/>WARRING,</hi> and <hi>Dr. BEALE.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>My</hi> LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the Houſe of <hi>Commons</hi> to pre<g ref="char:EOLhyphen"/>ſent to your Lord-ſhips a
+Declaration and Im<g ref="char:EOLhyphen"/>peachment againſt Dr. COSSENS and others upon the Complaint of Mr. PETER
+SMART: which Mr. SMART was a <hi>Proto-Martyr,</hi> or,
+<pb n="2" facs="tcp:157468:3"/>firſt Confeſſor of note in the late daies of
+Per<g ref="char:EOLhyphen"/>ſecution. The whole matter is a tree, where<g ref="char:EOLhyphen"/>of the branches and fruit are manifeſt in the
+Articles of this Declaration; which being read, I ſhall with your Lordſhips favour diſ<g ref="char:EOLhyphen"/>cover
+and lay open the root.</p>
+            <div type="section">
+               <head>The Declaration was read, and then Hee proceeded thus:</head>
+               <opener>
+                  <salute>My <hi>Lords:</hi>
+                  </salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Am now to diſcover the Root of Maſter SMARTS Perſecu<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Your <hi>Lordſhips</hi> have heard of a great De<g ref="char:EOLhyphen"/>ſigne to bring in Po<g ref="char:EOLhyphen"/>pery; you have heard
+of Armies of Souldi<g ref="char:EOLhyphen"/>ers, and particular<g ref="char:EOLhyphen"/>ly of the Popiſh Iriſh Armie, the burthen and Complaint
+of the Commons. But there is another Armie not ſo much ſpoken of, and that is an Army of
+Prieſts: for ſince Altars came in (ſo they de<g ref="char:EOLhyphen"/>light to bee called,) it is a ſaying of
+<hi>Gregory</hi> the Great, that when Antichriſt comes, <hi>Prae<g ref="char:EOLhyphen"/>paratus eſt excercitus
+Sacerdotum:</hi> there is an Army of Prieſts ready to receive him; this is
+<pb n="3" facs="tcp:157468:3"/>fulfilled in our time; for certainty this Ar<g ref="char:EOLhyphen"/>my of
+Prieſts doth many wayes advance the deſigne and plot of <hi>Popery.</hi> A firſt is by the
+ſubverſion of our Lawes, and Government: our <hi>Lawes</hi> and <hi>Popery</hi> cannot ſtand
+together; but either <hi>Popery</hi> muſt overthrow our <hi>Lawes,</hi> or our <hi>Lawes</hi>
+muſt overthrow <hi>Popery:</hi> but to overthrow our <hi>Lawes,</hi> they muſt overthrow
+<hi>Parliaments;</hi> and to overthrow <hi>Parliaments,</hi> they muſt overthrow propertie; they
+muſt bring the Subjects goods to be arbitrarily diſ<g ref="char:EOLhyphen"/>poſed, that ſo there may be no need of
+<hi>Parli<g ref="char:EOLhyphen"/>aments;</hi> this hath been done by Dr. MAYN<g ref="char:EOLhyphen"/>WARING (whom we find wanting yet not in the
+ſeats, but in the Barr of the <hi>Lords Houſe)</hi> and the like by Dr. BEALE: and I thinke it
+was the Intention of the late Cannons.</p>
+               <p>A ſecond way, by which this Armie of Prieſts advanceth the <hi>Popiſh</hi> Deſigne, is
+the way of Treatie. This hath beene acted both by writings and conference; <hi>Sancta Clara</hi>
+him<g ref="char:EOLhyphen"/>ſelfe ſaith, <hi>Doctiſſimi corum quibuſcunque egi;</hi> ſo it ſeems they have
+had conferences together; And <hi>Sancta Clara</hi> on his part, labours to bring the Articles of
+our <hi>Church</hi> to <hi>Popery;</hi> and ſome of our ſide ſtrive to meete him in that way:
+wee have a teſtimonie that the great <hi>Arch-Prieſt</hi> himſelfe hath ſaid; <hi>It were
+no hard mat<g ref="char:EOLhyphen"/>ter to make a reconciliation, if a wiſe man had the handling of it.</hi> But I verily
+beleeve that as
+<pb n="4" facs="tcp:157468:4"/>the State of <hi>Papacie</hi> ſtands, a farre
+wiſer man then he cannot reconcile Us, without the loſſe of our Religion. For the
+<hi>Pope</hi> being faſtened to his Errors, even by his Chaire of Inerrabi<g ref="char:EOLhyphen"/>litie, he ſits
+ſtill unmoved, and ſo we cannot meete, except wee come wholly to him. A man ſtanding in a
+Boat tied to a Rock, when he drawes the rope, doth not draw the Rock to the Boat; but the Boat to
+the Rock. And <hi>Sancta Clara</hi> doth (in this ſomwhat honeſtly) confeſſe it: for he
+ſaith that he dealt in this way of Treatie, not to draw the <hi>Church</hi> to the Proteſtants:
+but the Proteſtants to the <hi>Church.</hi>
+               </p>
+               <p>A third way is a way of violence, this vio<g ref="char:EOLhyphen"/>lence they exerciſe partly by Secular
+<hi>Armes,</hi> and partly by Prieſtly <hi>Armes,</hi> which they call Spirituall: for Secular
+<hi>Armes,</hi> wee have their owne confeſſion, that the late warre was <hi>Bel<g ref="char:EOLhyphen"/>lum
+Epiſcopale;</hi> and wee have the Papiſts con<g ref="char:EOLhyphen"/>feſſion, that it was <hi>Bellum Papale:</hi>
+for in their motives, they ſay, <hi>that the Warre concernes them not only as Subjects, but as
+Catholikes,</hi> for ſo they falſly call themſelves: and if it be ſo, then <hi>Bel<g ref="char:EOLhyphen"/>lum
+Epiſcopale,</hi> is alſo <hi>Bellum Papale:</hi> in the <hi>E<g ref="char:EOLhyphen"/>piſcopall</hi> Warre, the
+<hi>Papall</hi> cauſe is advanced: For the Spirituall <hi>Armes,</hi> thus they come to
+execution.</p>
+               <p>When a great Man is comming, his Sump<g ref="char:EOLhyphen"/>ters, his Furniture, his Proviſions goe before:
+<pb n="5" facs="tcp:157468:4"/>the <hi>Popes</hi> Furniture, <hi>Altars</hi> and
+<hi>Copes, Pictures</hi> and <hi>Images</hi> are come before; (and if wee be<g ref="char:EOLhyphen"/>leeve Dr. COSSENS) the
+very ſubſtance of the <hi>Maſſe;</hi> a certaine ſigne that the <hi>Pope</hi> was not
+farre off. Now theſe fore-runners being come, if any man reſiſt them, Fire comes out of the
+Brambles and devoures the Cedars of Lebanon: the <hi>Army</hi> of the <hi>Prieſts</hi> falls upon
+him with their <hi>Armes</hi> of Suſpenſion, Seque<g ref="char:EOLhyphen"/>ſtration, Excommunication, Degradation,
+and Deprivation. And by theſe <hi>Armes</hi> hath Mr. SMART beene oppreſſed and undone. Hee
+falls upon their Superſtitions and Inno<g ref="char:EOLhyphen"/>vations, and they fall upon him with their
+<hi>Armes,</hi> they beate him downe, yea they pull him up by the rootes, taking away all his
+meanes of maintenance and living; yet they leave him life to feele his miſeries: <hi>Ita
+fori<g ref="char:EOLhyphen"/>unt, ut diu ſe ſentiat mori;</hi> there is no crueltie to Prieſtly crueltie; theſe are
+they that did put our very Saviour to death: the <hi>Calling</hi> is Reverend, but the Corruption
+of it moſt pernicious; <hi>Corruptio optimi peſſima:</hi> I know no reaſon of this change,
+except it bee that of the Apoſtle: <hi>Becauſe when they knew God, they did not worſhip him
+as</hi> GOD, but made a God of the World, placing the excellencie of <hi>Prieſt-hood</hi> in
+Worldly pompe and Great<g ref="char:EOLhyphen"/>neſſe and gave the glory of the inviſible GOD to <hi>Pictures,
+Images</hi> and <hi>Altars:</hi> therefore
+<pb n="6" facs="tcp:157468:5"/>God gave them up to vile affections, to be
+im<g ref="char:EOLhyphen"/>placable, unmercifull, and without naturall affection. But whatſoever the cauſe is of their
+Corruption; certainly their <hi>Armes</hi> have fal<g ref="char:EOLhyphen"/>len heavy upon Mr. SMART, and
+<hi>Prieſtly</hi> cru<g ref="char:EOLhyphen"/>eltie hath caſt him into a long miſerie, from which hee could get no
+releaſe by any <hi>Prieſtly</hi> mercie.</p>
+               <p>And now it is prayed, that as theſe Delin<g ref="char:EOLhyphen"/>quents by the cruel oppreſſions of M. SMART have
+advanced the Cauſe of <hi>Poperie;</hi> ſo they may in ſuch a degree of juſtice bee
+puniſhed, that in them <hi>Prieſtly</hi> cruelty and the very cauſe of <hi>Popery</hi> may
+appeare to be puniſhed and ſup<g ref="char:EOLhyphen"/>preſſed, and that Mr. SMART ſuffering for the Cauſe of
+<hi>Proteſtancie</hi> may be ſo repaired, that in him pious Conſtancie, and the very Cauſe
+of <hi>Proteſtancie</hi> may appeare to be righ<g ref="char:EOLhyphen"/>ted and repaired.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157468:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
